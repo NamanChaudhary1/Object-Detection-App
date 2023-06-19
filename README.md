@@ -32,7 +32,7 @@ The identified objects will be displayed on the screen along with their correspo
 
 Explore the project code to understand how the TensorFlow model is integrated and utilized for object identification.
 
-Customization
+## Customization
 If you want to use a different TensorFlow model or train your own model for object identification, follow these steps:
 
 Prepare your custom TensorFlow model by training it on a suitable dataset.
@@ -43,5 +43,5 @@ Update the code to load and use your custom model for object identification. Mak
 
 Rebuild and run the project to apply the changes.
 
-Contributing
+## Contributing
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, feel free to submit a pull request.
